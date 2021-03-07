@@ -1,7 +1,9 @@
+import { BiArchive } from "react-icons/bi"
+
 function App() {
   return (
     <div className="App">
-      <h1>Your Appointments</h1>
+      <h1><BiArchive />Your Appointments</h1>
     </div>
   );
 }
