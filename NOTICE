@@ -5,7 +5,28 @@ Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+
+React
+https://reactjs.org/
+Copyright (c) 2021
+License: MIT
+
+Tailwind CSS
+https://tailwindcss.com/
+Copyright (c) 2021
+License: MIT
+
+Craco
+https://gsoft.com/
+Copyright (c) 2021
+Apache-2.0 License
+
+Post CSS
+https://postcss.org/
+Copyright (c) 2021
+License: MIT
+
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
