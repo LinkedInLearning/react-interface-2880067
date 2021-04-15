@@ -7,19 +7,23 @@ See LICENSE in the project root for license information.
 ATTRIBUTIONS:
 
 React
-https://reactjs.org/
+https://github.com/facebook/react
+Copyright (c) Facebook, Inc. and its affiliates.
 License: MIT
+https://opensource.org/licenses/MIT
 
 Tailwind CSS
-https://tailwindcss.com/
+https://github.com/tailwindlabs/tailwindcss
 Copyright (c) Adam Wathan <adam.wathan@gmail.com>
 Copyright (c) Jonathan Reinink <jonathan@reinink.ca>
 License: MIT
+https://opensource.org/licenses/MIT
 
 Post CSS
-https://postcss.org/
+https://github.com/postcss/postcss
 Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 License: MIT
+https://opensource.org/licenses/MIT
 
 
 Please note, this project may automatically load third party code from external 
