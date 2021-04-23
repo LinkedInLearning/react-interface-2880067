@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React.js: Building an Interface
+This is the repository for the LinkedIn Learning course React.js: Building an Interface. The full course is available from [LinkedIn Learning][lil-course-url].
+
+![React.js: Building an Interface][lil-thumbnail-url] 
+React is a JavaScript library with reusable components and a unique data rendering approach. Web interfaces that you create with React are flexible, fast, and lightweight. In this course, instructor Ray Villalobos reviews component architecture in React and covers key skills that you need to be able to build interfaces. Ray steps through how to install React and get started with components, debugging, and variables. He explains how you can pass data to a component, use the useState hook and conditional classes, and toggle items by passing the state to a sub-component and using values to hide or show sub-components. Ray describes how you can delete records, search with a filtered array, set up a sort, and more. He shows how you can finish up your application by creating the code for adding appointments.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +72,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Instructor
+
+**Ray Villalobos**
+
+_Senior Staff Instructor at LinkedIn Learning_
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ray-villalobos?u=104).
+
+[lil-course-url]: https://www.linkedin.com/learning/react-js-building-an-interface-8551484
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2880067/2880067-1619021943737-16x9.jpg
