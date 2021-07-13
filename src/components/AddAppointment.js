@@ -6,7 +6,7 @@ const AddAppointment = () => {
   return (
     <div>
       <button onClick={() => { setToggleForm(!toggleForm) }}
-        className={`bg-blue-400 text-white px-2 py-3 w-full text-left rounded-t-md
+        className={`bg-blue-400 text-white px-2 py-3 w-full text-left
         ${toggleForm ? 'rounded-t-md' : 'rounded-md'}`}>
         <div><BiCalendarPlus className="inline-block align-text-top" />  Add Appointment</div>
       </button>
